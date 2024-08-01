@@ -1,1 +1,2 @@
-print("Hello World")
+myVariable = "this is a string";
+print(myVariable)
