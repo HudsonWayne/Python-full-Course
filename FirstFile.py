@@ -1,4 +1,9 @@
-age = 20;
+#Multiple Assignment = Allows you to assign multiple variable at the same line of code
 
-age += 1;
-print("Your age is :" + str(age))
+name = "Wayne"
+age = 30;
+attractive = True
+
+print (age)
+print (name)
+print (attractive)
