@@ -1,2 +1,4 @@
-myVariable = "this is a string";
-print(myVariable)
+time = 20
+time = time + 20;
+
+print(time)
