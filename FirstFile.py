@@ -1,4 +1,4 @@
-time = 20
-time = time + 20;
+age = 20;
 
-print(time)
+age += 1;
+print("Your age is :" + str(age))
